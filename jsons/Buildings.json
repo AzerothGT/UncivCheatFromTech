@@ -24,7 +24,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Start",
-		"uniques": ["[1] Free Technologies"]
+		"uniques": ["[5] Free Technologies"]
 	},
 	{
 		"name": "ExperimentModifier",
