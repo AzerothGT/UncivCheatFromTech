@@ -182,16 +182,6 @@
 		"uniques": ["[+30]% Production when constructing [All] wonders [in all cities]"]
 	},
 	{
-		"name": "InfiniteGold",
-		"cost": 1,
-	    "gold": 9999,
-		"requiredTech": "Experiment",
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"requiredBuilding": "ExperimentModifier",
-		"uniques": [""]
-	},
-	{
 		"name": "PopulationGrowth",
 		"cost": 1,
 		"requiredTech": "Experiment",
