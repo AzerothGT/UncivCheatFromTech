@@ -97,7 +97,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "UnitModifier",
-		"uniques": ["[+50]% XP gained from combat",
+		"uniques": ["[+5000]% XP gained from combat",
 "All adjacent units heal [4] HP when healing"]
 	},
 	{
