@@ -78,7 +78,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "UnitModifier",
-		"uniques": ["[+1] Movement <for [All] units>"]
+		"uniques": ["[+15] Movement <for [All] units>"]
 	},
 	{
 		"name": "UnitReward",
@@ -152,7 +152,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "ConstructingModifier",
-		"uniques": ["[+20]% Production when constructing [All] units [in all cities]","[+20]% Production when constructing [All] buildings [in all cities]","[+20]% Production when constructing [All] wonders [in all cities]"]
+		"uniques": ["[+2000]% Production when constructing [All] units [in all cities]","[+20]% Production when constructing [All] buildings [in all cities]","[+20]% Production when constructing [All] wonders [in all cities]"]
 	},
 	{
 		"name": "ConstructingUnit",
@@ -161,7 +161,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "ConstructingModifier",
-		"uniques": ["[+30]% Production when constructing [All] units [in all cities]"]
+		"uniques": ["[+3000]% Production when constructing [All] units [in all cities]"]
 	},
 	{
 		"name": "ConstructingBuilding",
@@ -188,7 +188,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "ExperimentModifier",
-		"uniques": ["[-10]% Food is carried over after population increases [in all cities]"]
+		"uniques": ["[-100]% Food is carried over after population increases [in all cities]"]
 	},
 	{
 		"name": "CityStrength",
@@ -207,7 +207,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "OtherModifier",
-		"uniques": ["Quantity of strategic resources produced by the empire +[50]%"]
+		"uniques": ["Quantity of strategic resources produced by the empire +[500]%"]
 	},
 	{
 		"name": "GreatMultiple",
@@ -226,9 +226,9 @@
 		"maintenance": 0,
 		"requiredBuilding": "OtherModifier",
 		"uniques": ["[-10]% Gold cost of acquiring tiles [in all cities]",
-"[Gold] cost of purchasing items in cities [-10]%",
+"[Gold] cost of purchasing items in cities [-50]%",
  "[Gold] cost of purchasing [All] buildings [-20]%",
-"[Gold] cost of purchasing [All] units [-10]%",
-"[-10]% Gold cost of upgrading"]
+"[Gold] cost of purchasing [All] units [-70]%",
+"[-100]% Gold cost of upgrading"]
 	},
 ]
