@@ -78,7 +78,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "UnitModifier",
-		"uniques": ["[+15] Movement <for [All] units>"]
+		"uniques": ["[+25] Movement <for [All] units>"]
 	},
 	{
 		"name": "UnitReward",
