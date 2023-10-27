@@ -15,7 +15,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Start",
-		"uniques": [""]
+		"uniques": ["[-500]% tile improvement construction time"]
 	},
 	{
 		"name": "FreeTechnologies",
