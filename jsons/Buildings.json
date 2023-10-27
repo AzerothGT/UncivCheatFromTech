@@ -15,7 +15,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Start",
-		"uniques": ["[-500]% tile improvement construction time"]
+		"uniques": [""]
 	},
 	{
 		"name": "FreeTechnologies",
@@ -60,7 +60,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "On",
-		"uniques": [""]
+		"uniques": ["[-500]% tile improvement construction time"]
 	},
 	{
 		"name": "ConstructingModifier",
@@ -143,7 +143,7 @@
 		"maintenance": 0,
 		"requiredTech": "Resource",
 		"requiredBuilding": "ResourceModifier:3",
-		"uniques": ["[40]% [Production] [in all cities]","[40]% [Food] [in all cities]","[40]% [Happiness] [in all cities]","[40]% [Science] [in all cities]","[40]% [Culture] [in all cities]"]
+		"uniques": ["[40]% [Production] [in all cities]","[40]% [Food] [in all cities]","[40]% [Happiness] [in all cities]","[40]% [Science] [in all cities]","[40000]% [Culture] [in all cities]"]
 	},
 	{
 		"name": "ConstructingAll",
